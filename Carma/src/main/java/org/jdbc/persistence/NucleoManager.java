@@ -9,7 +9,7 @@ import java.util.List;
 
 public class NucleoManager {
 
-    public List<Nucleo> findAll(Connection con) {
+    public static List<Nucleo> findAll(Connection con) {
 
         try (Statement stm=con.createStatement()) {
 

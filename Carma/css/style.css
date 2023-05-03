@@ -1,0 +1,13 @@
+*{
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+}
+
+table.dataTable td {
+  font-size: 120%;
+}
+
+.star {
+  font-size: 25px;
+	color:gold;
+}
